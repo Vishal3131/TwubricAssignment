@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.border_color{
+  color: black;
+}
+.font-small{
+font-size: 14px;
+}
+span{
+  cursor: pointer;
+}
+
+.disabled {
+  opacity: 0.5; /* Example: reduce opacity when disabled */
+  cursor: not-allowed; /* Example: change cursor style to indicate disabled state */
+  /* Add other styles as needed to visually indicate disabled state */
+}
